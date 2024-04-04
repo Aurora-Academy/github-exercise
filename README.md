@@ -4,3 +4,5 @@
 - I used git clone git@github.com:Aurora-Academy/github-exercise.git
 
 - Then I test with add, commit, and push feature
+
+- I can try out again
